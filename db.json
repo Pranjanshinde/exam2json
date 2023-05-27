@@ -1,0 +1,58 @@
+{
+  "freelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "https://m.media-amazon.com/images/I/51WCQTzZNFL._AC_UL600_FMwebp_QL65_.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "https://m.media-amazon.com/images/I/71HAleS4KKL._AC_UL600_FMwebp_QL65_.jpg",
+      "isBooked": false
+    },
+    {
+      "name": "mandar",
+      "email": "mandar@gmail.com",
+      "password": "1234",
+      "profession": "Web Developer",
+      "skills": [
+        "java",
+        "spring",
+        "react"
+      ],
+      "hourly_rate": 22,
+      "profile_picture": "https://m.media-amazon.com/images/I/61J57fSWsML._AC_UL600_FMwebp_QL65_.jpg",
+      "isBooked": false,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
